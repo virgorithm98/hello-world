@@ -1,2 +1,3 @@
 # hello-world
-Just a first trial. One day maybe will change.
+
+I just started to learn github. I like pizza, but not cold.
